@@ -1,2 +1,2 @@
-# FEIFusion
-The code of FEIFusion:  Frequency Enhanced Interaction Network for Infrared and Visible Image Fusion
+# FDIFuse
+The code of FDIFuse：A Frequency Domain High-Order Interaction Network for Infrared and Visible Image Fusion
